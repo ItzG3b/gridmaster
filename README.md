@@ -19,26 +19,26 @@ Add `<link href="https://cdn.rawgit.com/ItzG3b/gridmaster/b9adfc47/gridmaster/gr
 
 > "Fuck The Police"
 
-[MC Ren as Court Officer]
+>[MC Ren as Court Officer]
 Right about now, N.W.A. court is in full effect
 Judge Dre presiding
 In the case of N.W.A. vs. the Police Department;
 prosecuting attorney's are: MC Ren, Ice Cube,
 and Eazy-motherfucking-E
 
-[Dr. Dre as The Judge]
+>[Dr. Dre as The Judge]
 Order, order, order
 Ice Cube, take the motherfucking stand
 Do you swear to tell the truth, the whole truth
 and nothing but the truth so help your black ass?
 
-[Ice Cube as Witness]
+>[Ice Cube as Witness]
 You god damn right!
 
-[Dr. Dre]
+>[Dr. Dre]
 Well won't you tell everybody what the fuck you gotta say?
 
-[Ice Cube]
+>[Ice Cube]
 Fuck the police coming straight from the underground
 A young nigga got it bad cause I'm brown
 And not the other color so police think
@@ -72,22 +72,22 @@ And when I'm finished, it's gonna be a bloodbath
 of cops, dying in L.A.
 Yo Dre, I got something to say
 
-[cut and scratched 4x] "Fuck the police"
+>[cut and scratched 4x] "Fuck the police"
 
-Example of scene one
+>Example of scene one
 
-[Cop] Pull your god damn ass over right now
+>[Cop] Pull your god damn ass over right now
 [NWA] Aww shit, now what the fuck you pulling me over for?
 [Cop] Cause I feel like it!
 Just sit your ass on the curb and shut the fuck up
 [NWA] Man, fuck this shit
 [Cop] Aight smartass, I'm taking your black ass to jail!
 
-[Dr. Dre]
+>[Dr. Dre]
 MC Ren, will you please give your testimony
 to the jury about this fucked up incident?
 
-[MC Ren]
+>[MC Ren]
 Fuck the police and Ren said it with authority
 because the niggas on the street is a majority
 A gang, is with whoever I'm stepping
@@ -121,9 +121,9 @@ but it all depends on the size of the gat
 Taking out a police, would make my day
 But a nigga like Ren don't give a fuck to say
 
-[cut and scratched 4x] "Fuck the police"
+>[cut and scratched 4x] "Fuck the police"
 
-[Cop] [knocking on the door]
+>[Cop] [knocking on the door]
 [NWA] Yeah man, what you need?
 [Cop] Police, open now
 [NWA] Aww shit
@@ -137,11 +137,11 @@ and get your motherfucking ass on the floor
 [NWA] But I didn't do shit
 [Cop] Man just shut the fuck up!
 
-[Dr. Dre]
+>[Dr. Dre]
 Eazy-E, won't you step up to the stand
 and tell the jury how you feel about this bullshit?
 
-[Eazy-E]
+>[Eazy-E]
 I'm tired of the motherfucking jacking
 Sweating my gang, while I'm chilling in the shack, and
 shining the light in my face, and for what?
@@ -167,11 +167,11 @@ And if I'm rolling off the 8, he'll be the one
 that I take out, and then get away
 While I'm driving off laughing this is what I'll say
 
-[cut and scratched 4x] "Fuck the police"
+>[cut and scratched 4x] "Fuck the police"
 
-The verdict
+>The verdict
 
-[Dre] The jury has found you guilty of being a redneck,
+>[Dre] The jury has found you guilty of being a redneck,
 white bread, chickenshit motherfucker
 [Cop] But wait, that's a lie! That's a god damn lie!
 [Dre] Get him out of here!
@@ -181,4 +181,4 @@ white bread, chickenshit motherfucker
 [Dre] Out, RIGHT NOW!
 [Cop] FUCK YOU, YOU BLACK MOTHER-FUCKERS!
 
-Fuck the police! [3x]
+>Fuck the police! [3x]
