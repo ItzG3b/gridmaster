@@ -20,7 +20,7 @@ Add `<link href="https://cdn.rawgit.com/ItzG3b/gridmaster/b9adfc47/gridmaster/gr
 
 <br />
 <br />
-> "Fuck The Police"
+> "Fuck Tha Police"
 
 >[MC Ren as Court Officer]
 Right about now, N.W.A. court is in full effect
