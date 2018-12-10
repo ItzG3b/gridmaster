@@ -5,7 +5,7 @@ No planned updates ever
 
 ### How to add it to your project
 
-`<link>` `https://cdn.rawgit.com/ItzG3b/gridmaster/f1c2efa9/gridmaster/gridmaster.css` in your `<head>` tag.
+`<link>` `https://cdn.jsdelivr.net/gh/ItzG3b/gridmaster@f1c2efa9/gridmaster/gridmaster.css` in your `<head>` tag.
 
 ### What gridmaster is
 -   A lightweight css grid framework
